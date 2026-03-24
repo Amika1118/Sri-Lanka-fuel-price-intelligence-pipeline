@@ -1,0 +1,21 @@
+# AWS SDK for Python
+boto3>=1.26.0
+
+# API Requests & Web Scraping
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+
+# Data Manipulation (Local Testing & Ingestion)
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Configuration & Environment
+python-dotenv>=1.0.0
+PyYAML>=6.0
+
+# Database Connectivity (Optional for local Redshift testing)
+psycopg2-binary>=2.9.0
+
+# ETL (Local Spark testing - Optional, as Glue provides this in the cloud)
+# pyspark>=3.3.0
