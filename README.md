@@ -69,7 +69,7 @@ The pipeline follows a Lambda‑inspired pattern with these components:
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/sri-lanka-fuel-pipeline.git
+git clone https://github.com/yourusername/Sri-Lanka-fuel-pipeline.git
 cd sri-lanka-fuel-pipeline
 ```
 
